@@ -1,0 +1,36 @@
+name: Awesome Venezuela Update
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10.13'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Set up Gemini API Key
+        run: echo "API_KEY=${{ secrets.API_KEY }}" >> $GITHUB_ENV
+
+      - name: Run script
+        run: python scrape.py
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          message: 'gh-actions: ${{ steps.date.outputs.date }} update'
+          add: 'README.md'
