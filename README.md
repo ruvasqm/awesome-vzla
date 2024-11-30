@@ -3,7 +3,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Finanzas
 
-- **[enzonotario/esjs-dolar-api](https://github.com/enzonotario/esjs-dolar-api)**: API desarrollada en EsJS para las diferentes cotizaciones de Dólar en Argentina, Chile, Venezuela, Uruguay, México y Bolivia [![GitHub last commit](https://img.shields.io/github/last-commit/enzonotario/esjs-dolar-api)](/enzonotario/esjs-dolar-api) [![GitHub Repo stars](https://img.shields.io/github/stars/enzonotario/esjs-dolar-api)](/enzonotario/esjs-dolar-api)
+- **[enzonotario/esjs-dolar-api](https://github.com/enzonotario/esjs-dolar-api)**: API desarrollada en EsJS para las diferentes cotizaciones de Dólar en Argentina, Chile, Venezuela, Uruguay, México, Bolivia y Brasil [![GitHub last commit](https://img.shields.io/github/last-commit/enzonotario/esjs-dolar-api)](/enzonotario/esjs-dolar-api) [![GitHub Repo stars](https://img.shields.io/github/stars/enzonotario/esjs-dolar-api)](/enzonotario/esjs-dolar-api)
 
 - **[fcoagz/api-pydolarvenezuela](https://github.com/fcoagz/api-pydolarvenezuela)**: La API de pyDolarVenezuela permite obtener información actualizada sobre el precio del dólar y euro de diversos monitores en Venezuela. [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/api-pydolarvenezuela)](/fcoagz/api-pydolarvenezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/api-pydolarvenezuela)](/fcoagz/api-pydolarvenezuela)
 
@@ -13,9 +13,9 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[fcoagz/consulta-dolar-venezuela](https://github.com/fcoagz/consulta-dolar-venezuela)**: Utiliza la API de pyDolarVenezuela para obtener los valores actuales del dólar en Venezuela. [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/consulta-dolar-venezuela)](/fcoagz/consulta-dolar-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/consulta-dolar-venezuela)](/fcoagz/consulta-dolar-venezuela)
 
-- **[fcoagz/pyBCV](https://github.com/fcoagz/pyBCV)**: Es una librería que se enfoca en obtener los datos de tipos de cambio y tasas informativas del BCV y convertirlos en un formato fácilment… [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/pyBCV)](/fcoagz/pyBCV) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/pyBCV)](/fcoagz/pyBCV)
-
 - **[abr4xas/php-instapago](https://github.com/abr4xas/php-instapago)**: Librería Instapago para PHP [![GitHub last commit](https://img.shields.io/github/last-commit/abr4xas/php-instapago)](/abr4xas/php-instapago) [![GitHub Repo stars](https://img.shields.io/github/stars/abr4xas/php-instapago)](/abr4xas/php-instapago)
+
+- **[fcoagz/pyBCV](https://github.com/fcoagz/pyBCV)**: Es una librería que se enfoca en obtener los datos de tipos de cambio y tasas informativas del BCV y convertirlos en un formato fácilmente… [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/pyBCV)](/fcoagz/pyBCV) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/pyBCV)](/fcoagz/pyBCV)
 
 ## Mapas
 
@@ -29,13 +29,11 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Identificación
 
-- **[MegaCreativoTeam/CedulaVE-API](https://github.com/MegaCreativoTeam/CedulaVE-API)**: CedulaVE API es un script escrito en PHP para consultar datos personales de habitantes de Venezuela inscritos en el CNE mediante su Cédul… [![GitHub last commit](https://img.shields.io/github/last-commit/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API) [![GitHub Repo stars](https://img.shields.io/github/stars/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API)
+- **[MegaCreativoTeam/CedulaVE-API](https://github.com/MegaCreativoTeam/CedulaVE-API)**: CedulaVE API es un script escrito en PHP para consultar datos personales de habitantes de Venezuela inscritos en el CNE mediante su Cédula… [![GitHub last commit](https://img.shields.io/github/last-commit/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API) [![GitHub Repo stars](https://img.shields.io/github/stars/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API)
 
 ## Comunidades
 
 - **[OpenVE/comunidades-en-telegram](https://github.com/OpenVE/comunidades-en-telegram)**: Listado de Chats de Comunidades en Telegram [![GitHub last commit](https://img.shields.io/github/last-commit/OpenVE/comunidades-en-telegram)](/OpenVE/comunidades-en-telegram) [![GitHub Repo stars](https://img.shields.io/github/stars/OpenVE/comunidades-en-telegram)](/OpenVE/comunidades-en-telegram)
-
-- **[pyve/awesome-pyve](https://github.com/pyve/awesome-pyve)**: Recursos compartidos vía la comunidad de Python Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/pyve/awesome-pyve)](/pyve/awesome-pyve) [![GitHub Repo stars](https://img.shields.io/github/stars/pyve/awesome-pyve)](/pyve/awesome-pyve)
 
 ## Paquetes
 
@@ -50,4 +48,6 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 - **[YipiApp/Venezuela](https://github.com/YipiApp/Venezuela)**: Herramientas para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/YipiApp/Venezuela)](/YipiApp/Venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/YipiApp/Venezuela)](/YipiApp/Venezuela)
 
 - **[bameda/chrome-ext-venezuela-no-more](https://github.com/bameda/chrome-ext-venezuela-no-more)**: A funny Chrome extension to get away from Venezuela when you read the Spanish press. [![GitHub last commit](https://img.shields.io/github/last-commit/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more) [![GitHub Repo stars](https://img.shields.io/github/stars/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more)
+
+- **[pyve/awesome-pyve](https://github.com/pyve/awesome-pyve)**: Recursos compartidos vía la comunidad de Python Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/pyve/awesome-pyve)](/pyve/awesome-pyve) [![GitHub Repo stars](https://img.shields.io/github/stars/pyve/awesome-pyve)](/pyve/awesome-pyve)
 
