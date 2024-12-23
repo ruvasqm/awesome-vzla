@@ -35,8 +35,6 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[OpenVE/comunidades-en-telegram](https://github.com/OpenVE/comunidades-en-telegram)**: Listado de Chats de Comunidades en Telegram [![GitHub last commit](https://img.shields.io/github/last-commit/OpenVE/comunidades-en-telegram)](/OpenVE/comunidades-en-telegram) [![GitHub Repo stars](https://img.shields.io/github/stars/OpenVE/comunidades-en-telegram)](/OpenVE/comunidades-en-telegram)
 
-- **[pyve/awesome-pyve](https://github.com/pyve/awesome-pyve)**: Recursos compartidos vía la comunidad de Python Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/pyve/awesome-pyve)](/pyve/awesome-pyve) [![GitHub Repo stars](https://img.shields.io/github/stars/pyve/awesome-pyve)](/pyve/awesome-pyve)
-
 ## Paquetes
 
 - **[odoo-mastercore/odoo-venezuela](https://github.com/odoo-mastercore/odoo-venezuela)**: Localización para Venezuela odoo [![GitHub last commit](https://img.shields.io/github/last-commit/odoo-mastercore/odoo-venezuela)](/odoo-mastercore/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/odoo-mastercore/odoo-venezuela)](/odoo-mastercore/odoo-venezuela)
@@ -50,4 +48,6 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 - **[YipiApp/Venezuela](https://github.com/YipiApp/Venezuela)**: Herramientas para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/YipiApp/Venezuela)](/YipiApp/Venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/YipiApp/Venezuela)](/YipiApp/Venezuela)
 
 - **[bameda/chrome-ext-venezuela-no-more](https://github.com/bameda/chrome-ext-venezuela-no-more)**: A funny Chrome extension to get away from Venezuela when you read the Spanish press. [![GitHub last commit](https://img.shields.io/github/last-commit/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more) [![GitHub Repo stars](https://img.shields.io/github/stars/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more)
+
+- **[pyve/awesome-pyve](https://github.com/pyve/awesome-pyve)**: Recursos compartidos vía la comunidad de Python Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/pyve/awesome-pyve)](/pyve/awesome-pyve) [![GitHub Repo stars](https://img.shields.io/github/stars/pyve/awesome-pyve)](/pyve/awesome-pyve)
 
