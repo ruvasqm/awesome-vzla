@@ -41,8 +41,6 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[odoo-mastercore/odoo-venezuela](https://github.com/odoo-mastercore/odoo-venezuela)**: Localización para Venezuela odoo [![GitHub last commit](https://img.shields.io/github/last-commit/odoo-mastercore/odoo-venezuela)](/odoo-mastercore/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/odoo-mastercore/odoo-venezuela)](/odoo-mastercore/odoo-venezuela)
 
-- **[Vauxoo/odoo-venezuela](https://github.com/Vauxoo/odoo-venezuela)** [![GitHub last commit](https://img.shields.io/github/last-commit/Vauxoo/odoo-venezuela)](/Vauxoo/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/Vauxoo/odoo-venezuela)](/Vauxoo/odoo-venezuela)
-
 ## Otros
 
 - **[code-for-venezuela/2019-april-codeathon](https://github.com/code-for-venezuela/2019-april-codeathon)**: Code For Venezuela - April Codeathon [![GitHub last commit](https://img.shields.io/github/last-commit/code-for-venezuela/2019-april-codeathon)](/code-for-venezuela/2019-april-codeathon) [![GitHub Repo stars](https://img.shields.io/github/stars/code-for-venezuela/2019-april-codeathon)](/code-for-venezuela/2019-april-codeathon)
@@ -50,4 +48,6 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 - **[YipiApp/Venezuela](https://github.com/YipiApp/Venezuela)**: Herramientas para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/YipiApp/Venezuela)](/YipiApp/Venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/YipiApp/Venezuela)](/YipiApp/Venezuela)
 
 - **[bameda/chrome-ext-venezuela-no-more](https://github.com/bameda/chrome-ext-venezuela-no-more)**: A funny Chrome extension to get away from Venezuela when you read the Spanish press. [![GitHub last commit](https://img.shields.io/github/last-commit/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more) [![GitHub Repo stars](https://img.shields.io/github/stars/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more)
+
+- **[ggangix/resultados-elecciones-venezuela-macedonia-del-norte](https://github.com/ggangix/resultados-elecciones-venezuela-macedonia-del-norte)**: Resultados detallados de las elecciones presidenciales de venezuela auditados por https://macedoniadelnorte.com [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/resultados-elecciones-venezuela-macedonia-del-norte)](/ggangix/resultados-elecciones-venezuela-macedonia-del-norte) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/resultados-elecciones-venezuela-macedonia-del-norte)](/ggangix/resultados-elecciones-venezuela-macedonia-del-norte)
 
