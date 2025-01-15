@@ -15,7 +15,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[abr4xas/php-instapago](https://github.com/abr4xas/php-instapago)**: Librería Instapago para PHP [![GitHub last commit](https://img.shields.io/github/last-commit/abr4xas/php-instapago)](/abr4xas/php-instapago) [![GitHub Repo stars](https://img.shields.io/github/stars/abr4xas/php-instapago)](/abr4xas/php-instapago)
 
-- **[fcoagz/pyBCV](https://github.com/fcoagz/pyBCV)**: Es una librería que se enfoca en obtener los datos de tipos de cambio y tasas informativas del BCV y convertirlos en un formato fácilment… [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/pyBCV)](/fcoagz/pyBCV) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/pyBCV)](/fcoagz/pyBCV)
+- **[fcoagz/pyBCV](https://github.com/fcoagz/pyBCV)**: Es una librería que se enfoca en obtener los datos de tipos de cambio y tasas informativas del BCV y convertirlos en un formato fácilmente… [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/pyBCV)](/fcoagz/pyBCV) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/pyBCV)](/fcoagz/pyBCV)
 
 ## Mapas
 
