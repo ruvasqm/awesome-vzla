@@ -13,7 +13,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[fcoagz/consulta-dolar-venezuela](https://github.com/fcoagz/consulta-dolar-venezuela)**: Utiliza la API de pyDolarVenezuela para obtener los valores actuales del dólar en Venezuela. [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/consulta-dolar-venezuela)](/fcoagz/consulta-dolar-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/consulta-dolar-venezuela)](/fcoagz/consulta-dolar-venezuela)
 
-- **[fcoagz/pyBCV](https://github.com/fcoagz/pyBCV)**: Es una librería que se enfoca en obtener los datos de tipos de cambio y tasas informativas del BCV y convertirlos en un formato fácilmente... [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/pyBCV)](/fcoagz/pyBCV) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/pyBCV)](/fcoagz/pyBCV)
+- **[fcoagz/pyBCV](https://github.com/fcoagz/pyBCV)**: Es una librería que se enfoca en obtener los datos de tipos de cambio y tasas informativas del BCV y convertirlos en un formato fácilmente… [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/pyBCV)](/fcoagz/pyBCV) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/pyBCV)](/fcoagz/pyBCV)
 
 - **[abr4xas/php-instapago](https://github.com/abr4xas/php-instapago)**: Librería Instapago para PHP [![GitHub last commit](https://img.shields.io/github/last-commit/abr4xas/php-instapago)](/abr4xas/php-instapago) [![GitHub Repo stars](https://img.shields.io/github/stars/abr4xas/php-instapago)](/abr4xas/php-instapago)
 
@@ -29,7 +29,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Identificación
 
-- **[MegaCreativoTeam/CedulaVE-API](https://github.com/MegaCreativoTeam/CedulaVE-API)**: CedulaVE API es un script escrito en PHP para consultar datos personales de habitantes de Venezuela inscritos en el CNE mediante su Cédula... [![GitHub last commit](https://img.shields.io/github/last-commit/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API) [![GitHub Repo stars](https://img.shields.io/github/stars/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API)
+- **[MegaCreativoTeam/CedulaVE-API](https://github.com/MegaCreativoTeam/CedulaVE-API)**: CedulaVE API es un script escrito en PHP para consultar datos personales de habitantes de Venezuela inscritos en el CNE mediante su Cédula… [![GitHub last commit](https://img.shields.io/github/last-commit/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API) [![GitHub Repo stars](https://img.shields.io/github/stars/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API)
 
 ## Comunidades
 
