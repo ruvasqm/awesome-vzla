@@ -7,7 +7,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[fcoagz/api-pydolarvenezuela](https://github.com/fcoagz/api-pydolarvenezuela)**: La API de pyDolarVenezuela permite obtener información actualizada sobre el precio del dólar y euro de diversos monitores en Venezuela. [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/api-pydolarvenezuela)](/fcoagz/api-pydolarvenezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/api-pydolarvenezuela)](/fcoagz/api-pydolarvenezuela)
 
-- **[fcoagz/pydolarvenezuela](https://github.com/fcoagz/pydolarvenezuela)**: Esta librería desarrollada en Python te brinda la capacidad de consultar los precios del dólar y/o euro en diversos monitores en Venezuela,… [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/pydolarvenezuela)](/fcoagz/pydolarvenezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/pydolarvenezuela)](/fcoagz/pydolarvenezuela)
+- **[fcoagz/pydolarvenezuela](https://github.com/fcoagz/pydolarvenezuela)**: Esta librería desarrollada en Python te brinda la capacidad de consultar los precios del dólar y/o euro en diversos monitores en Venezuela, … [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/pydolarvenezuela)](/fcoagz/pydolarvenezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/pydolarvenezuela)](/fcoagz/pydolarvenezuela)
 
 - **[btcven/api](https://github.com/btcven/api)**: Bitcoin Venezuela's BTCVES (Bitcoin-Bolívar) prices API [![GitHub last commit](https://img.shields.io/github/last-commit/btcven/api)](/btcven/api) [![GitHub Repo stars](https://img.shields.io/github/stars/btcven/api)](/btcven/api)
 
@@ -35,9 +35,9 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[OpenVE/comunidades-en-telegram](https://github.com/OpenVE/comunidades-en-telegram)**: Listado de Chats de Comunidades en Telegram [![GitHub last commit](https://img.shields.io/github/last-commit/OpenVE/comunidades-en-telegram)](/OpenVE/comunidades-en-telegram) [![GitHub Repo stars](https://img.shields.io/github/stars/OpenVE/comunidades-en-telegram)](/OpenVE/comunidades-en-telegram)
 
-- **[pyve/awesome-pyve](https://github.com/pyve/awesome-pyve)**: Recursos compartidos vía la comunidad de Python Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/pyve/awesome-pyve)](/pyve/awesome-pyve) [![GitHub Repo stars](https://img.shields.io/github/stars/pyve/awesome-pyve)](/pyve/awesome-pyve)
-
 ## Paquetes
+
+- **[binaural-dev/odoo-venezuela](https://github.com/binaural-dev/odoo-venezuela)**: Una localización de Binaural para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/binaural-dev/odoo-venezuela)](/binaural-dev/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/binaural-dev/odoo-venezuela)](/binaural-dev/odoo-venezuela)
 
 - **[odoo-mastercore/odoo-venezuela](https://github.com/odoo-mastercore/odoo-venezuela)**: Localización para Venezuela odoo [![GitHub last commit](https://img.shields.io/github/last-commit/odoo-mastercore/odoo-venezuela)](/odoo-mastercore/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/odoo-mastercore/odoo-venezuela)](/odoo-mastercore/odoo-venezuela)
 
