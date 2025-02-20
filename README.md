@@ -7,7 +7,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[fcoagz/api-pydolarvenezuela](https://github.com/fcoagz/api-pydolarvenezuela)**: La API de pyDolarVenezuela permite obtener información actualizada sobre el precio del dólar y euro de diversos monitores en Venezuela. [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/api-pydolarvenezuela)](/fcoagz/api-pydolarvenezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/api-pydolarvenezuela)](/fcoagz/api-pydolarvenezuela)
 
-- **[fcoagz/pydolarvenezuela](https://github.com/fcoagz/pydolarvenezuela)**: Esta librería desarrollada en Python te brinda la capacidad de consultar los precios del dólar y/o euro en diversos monitores en Venezuela, … [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/pydolarvenezuela)](/fcoagz/pydolarvenezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/pydolarvenezuela)](/fcoagz/pydolarvenezuela)
+- **[fcoagz/pydolarvenezuela](https://github.com/fcoagz/pydolarvenezuela)**: Esta librería desarrollada en Python te brinda la capacidad de consultar los precios del dólar y/o euro en diversos monitores en Venezuela,… [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/pydolarvenezuela)](/fcoagz/pydolarvenezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/pydolarvenezuela)](/fcoagz/pydolarvenezuela)
 
 - **[btcven/api](https://github.com/btcven/api)**: Bitcoin Venezuela's BTCVES (Bitcoin-Bolívar) prices API [![GitHub last commit](https://img.shields.io/github/last-commit/btcven/api)](/btcven/api) [![GitHub Repo stars](https://img.shields.io/github/stars/btcven/api)](/btcven/api)
 
