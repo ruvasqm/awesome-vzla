@@ -3,7 +3,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Finanzas
 
-- **[enzonotario/esjs-dolar-api](https://github.com/enzonotario/esjs-dolar-api)**: API desarrollada en EsJS para las diferentes cotizaciones de Dólar en Argentina, Chile, Venezuela, Uruguay, México, Bolivia y Brasil [![GitHub last commit](https://img.shields.io/github/last-commit/enzonotario/esjs-dolar-api)](/enzonotario/esjs-dolar-api) [![GitHub Repo stars](https://img.shields.io/github/stars/enzonotario/esjs-dolar-api)](/enzonotario/esjs-dolar-api)
+- **[enzonotario/esjs-dolar-api](https://github.com/enzonotario/esjs-dolar-api)**: API desarrollada en EsJS para las diferentes cotizaciones de Dolar en Argentina, Chile, Venezuela, Uruguay, México, Bolivia y Brasil [![GitHub last commit](https://img.shields.io/github/last-commit/enzonotario/esjs-dolar-api)](/enzonotario/esjs-dolar-api) [![GitHub Repo stars](https://img.shields.io/github/stars/enzonotario/esjs-dolar-api)](/enzonotario/esjs-dolar-api)
 
 - **[fcoagz/api-pydolarvenezuela](https://github.com/fcoagz/api-pydolarvenezuela)**: La API de pyDolarVenezuela permite obtener información actualizada sobre el precio del dólar y euro de diversos monitores en Venezuela. [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/api-pydolarvenezuela)](/fcoagz/api-pydolarvenezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/api-pydolarvenezuela)](/fcoagz/api-pydolarvenezuela)
 
