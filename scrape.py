@@ -104,7 +104,7 @@ def classify_repositories(repositories):
         return {}  # Return empty dict if key isn't provided
 
     genai.configure(api_key=API_KEY)
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    model = genai.GenerativeModel("gemini-2.0-flash")
 
     # Build the prompt with the full JSON structure and output format
     prompt = f"""
