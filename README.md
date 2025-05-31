@@ -5,7 +5,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[enzonotario/esjs-dolar-api](https://github.com/enzonotario/esjs-dolar-api)**: API desarrollada en EsJS para las diferentes cotizaciones de Dólar en Argentina, Chile, Venezuela, Uruguay, México, Bolivia y Brasil [![GitHub last commit](https://img.shields.io/github/last-commit/enzonotario/esjs-dolar-api)](/enzonotario/esjs-dolar-api) [![GitHub Repo stars](https://img.shields.io/github/stars/enzonotario/esjs-dolar-api)](/enzonotario/esjs-dolar-api)
 
-- **[fcoagz/api-pydolarvenezuela](https://github.com/fcoagz/api-pydolarvenezuela)**: La API de pyDolarVenezuela permite obtener información actualizada sobre el precio del dólar y el euro de diversos monitores en Venezuela. [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/api-pydolarvenezuela)](/fcoagz/api-pydolarvenezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/api-pydolarvenezuela)](/fcoagz/api-pydolarvenezuela)
+- **[fcoagz/api-pydolarvenezuela](https://github.com/fcoagz/api-pydolarvenezuela)**: La API de pyDolarVenezuela permite obtener información actualizada sobre el precio del dólar y el euro en Venezuela. [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/api-pydolarvenezuela)](/fcoagz/api-pydolarvenezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/api-pydolarvenezuela)](/fcoagz/api-pydolarvenezuela)
 
 - **[fcoagz/pydolarvenezuela](https://github.com/fcoagz/pydolarvenezuela)**: Esta librería desarrollada en Python te brinda la capacidad de consultar los precios del dólar y/o euro en diversos monitores en Venezuela,… [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/pydolarvenezuela)](/fcoagz/pydolarvenezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/pydolarvenezuela)](/fcoagz/pydolarvenezuela)
 
@@ -29,7 +29,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Identificación
 
-- **[MegaCreativoTeam/CedulaVE-API](https://github.com/MegaCreativoTeam/CedulaVE-API)**: CedulaVE API es un script escrito en PHP para consultar datos personales de habitantes de Venezuela inscritos en el CNE mediante su Cédul… [![GitHub last commit](https://img.shields.io/github/last-commit/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API) [![GitHub Repo stars](https://img.shields.io/github/stars/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API)
+- **[MegaCreativoTeam/CedulaVE-API](https://github.com/MegaCreativoTeam/CedulaVE-API)**: CedulaVE API es un script escrito en PHP para consultar datos personales de habitantes de Venezuela inscritos en el CNE mediante su Cédula… [![GitHub last commit](https://img.shields.io/github/last-commit/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API) [![GitHub Repo stars](https://img.shields.io/github/stars/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API)
 
 ## Comunidades
 
