@@ -5,17 +5,13 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[enzonotario/esjs-dolar-api](https://github.com/enzonotario/esjs-dolar-api)**: API desarrollada en EsJS para las diferentes cotizaciones de Dólar en Argentina, Chile, Venezuela, Uruguay, México, Bolivia y Brasil [![GitHub last commit](https://img.shields.io/github/last-commit/enzonotario/esjs-dolar-api)](/enzonotario/esjs-dolar-api) [![GitHub Repo stars](https://img.shields.io/github/stars/enzonotario/esjs-dolar-api)](/enzonotario/esjs-dolar-api)
 
-- **[fcoagz/api-pydolarvenezuela](https://github.com/fcoagz/api-pydolarvenezuela)**: La API de pyDolarVenezuela permite obtener información actualizada sobre el precio del dólar y el euro en Venezuela. [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/api-pydolarvenezuela)](/fcoagz/api-pydolarvenezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/api-pydolarvenezuela)](/fcoagz/api-pydolarvenezuela)
-
-- **[fcoagz/pydolarvenezuela](https://github.com/fcoagz/pydolarvenezuela)**: Esta librería desarrollada en Python te brinda la capacidad de consultar los precios del dólar y/o euro en diversos monitores en Venezuela,… [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/pydolarvenezuela)](/fcoagz/pydolarvenezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/pydolarvenezuela)](/fcoagz/pydolarvenezuela)
-
 - **[btcven/api](https://github.com/btcven/api)**: Bitcoin Venezuela's BTCVES (Bitcoin-Bolívar) prices API [![GitHub last commit](https://img.shields.io/github/last-commit/btcven/api)](/btcven/api) [![GitHub Repo stars](https://img.shields.io/github/stars/btcven/api)](/btcven/api)
-
-- **[fcoagz/consulta-dolar-venezuela](https://github.com/fcoagz/consulta-dolar-venezuela)**: Utiliza la API de pyDolarVenezuela para obtener los valores actuales del dólar en Venezuela. [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/consulta-dolar-venezuela)](/fcoagz/consulta-dolar-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/consulta-dolar-venezuela)](/fcoagz/consulta-dolar-venezuela)
 
 - **[abr4xas/php-instapago](https://github.com/abr4xas/php-instapago)**: Librería Instapago para PHP [![GitHub last commit](https://img.shields.io/github/last-commit/abr4xas/php-instapago)](/abr4xas/php-instapago) [![GitHub Repo stars](https://img.shields.io/github/stars/abr4xas/php-instapago)](/abr4xas/php-instapago)
 
-- **[fcoagz/pyBCV](https://github.com/fcoagz/pyBCV)**: Es una librería que se enfoca en obtener los datos de tipos de cambio y tasas informativas del BCV y convertirlos en un formato fácilment… [![GitHub last commit](https://img.shields.io/github/last-commit/fcoagz/pyBCV)](/fcoagz/pyBCV) [![GitHub Repo stars](https://img.shields.io/github/stars/fcoagz/pyBCV)](/fcoagz/pyBCV)
+- **[gustavoerivero/venecodollar](https://github.com/gustavoerivero/venecodollar)**: Venecodollar is a Typescript library that provides two asynchronous methods to obtain a JSON object with the different values that the do… [![GitHub last commit](https://img.shields.io/github/last-commit/gustavoerivero/venecodollar)](/gustavoerivero/venecodollar) [![GitHub Repo stars](https://img.shields.io/github/stars/gustavoerivero/venecodollar)](/gustavoerivero/venecodollar)
+
+- **[barreto-exe/inventas](https://github.com/barreto-exe/inventas)**: App de registro de inventario y ventas para emprendimientos que operan en economías con control cambiario. [![GitHub last commit](https://img.shields.io/github/last-commit/barreto-exe/inventas)](/barreto-exe/inventas) [![GitHub Repo stars](https://img.shields.io/github/stars/barreto-exe/inventas)](/barreto-exe/inventas)
 
 ## Mapas
 
@@ -26,6 +22,8 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 - **[jobsamuel/venezuela-js](https://github.com/jobsamuel/venezuela-js)**: Analiza, verifica, utiliza y muestra la organización territorial de Venezuela con Javascript. [![GitHub last commit](https://img.shields.io/github/last-commit/jobsamuel/venezuela-js)](/jobsamuel/venezuela-js) [![GitHub Repo stars](https://img.shields.io/github/stars/jobsamuel/venezuela-js)](/jobsamuel/venezuela-js)
 
 - **[joserafael/venezuela](https://github.com/joserafael/venezuela)**: Estados, municipios, ciudades y parroquias de Venezuela en Mysql para cakephp o cualquier otro framework que use Active Record [![GitHub last commit](https://img.shields.io/github/last-commit/joserafael/venezuela)](/joserafael/venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/joserafael/venezuela)](/joserafael/venezuela)
+
+- **[CodersVenezuela/Venezuela-JSON](https://github.com/CodersVenezuela/Venezuela-JSON)**: Estados, municipios, ciudades y parroquias de Venezuela en JSON [![GitHub last commit](https://img.shields.io/github/last-commit/CodersVenezuela/Venezuela-JSON)](/CodersVenezuela/Venezuela-JSON) [![GitHub Repo stars](https://img.shields.io/github/stars/CodersVenezuela/Venezuela-JSON)](/CodersVenezuela/Venezuela-JSON)
 
 ## Identificación
 
@@ -40,6 +38,8 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 - **[odoo-mastercore/odoo-venezuela](https://github.com/odoo-mastercore/odoo-venezuela)**: Localización para Venezuela odoo [![GitHub last commit](https://img.shields.io/github/last-commit/odoo-mastercore/odoo-venezuela)](/odoo-mastercore/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/odoo-mastercore/odoo-venezuela)](/odoo-mastercore/odoo-venezuela)
 
 - **[Vauxoo/odoo-venezuela](https://github.com/Vauxoo/odoo-venezuela)** [![GitHub last commit](https://img.shields.io/github/last-commit/Vauxoo/odoo-venezuela)](/Vauxoo/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/Vauxoo/odoo-venezuela)](/Vauxoo/odoo-venezuela)
+
+- **[odoo-venezuela/odoo-venezuela](https://github.com/odoo-venezuela/odoo-venezuela)**: Localización Venezolana de Odoo. [![GitHub last commit](https://img.shields.io/github/last-commit/odoo-venezuela/odoo-venezuela)](/odoo-venezuela/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/odoo-venezuela/odoo-venezuela)](/odoo-venezuela/odoo-venezuela)
 
 ## Otros
 
