@@ -9,9 +9,9 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[abr4xas/php-instapago](https://github.com/abr4xas/php-instapago)**: Librería Instapago para PHP [![GitHub last commit](https://img.shields.io/github/last-commit/abr4xas/php-instapago)](/abr4xas/php-instapago) [![GitHub Repo stars](https://img.shields.io/github/stars/abr4xas/php-instapago)](/abr4xas/php-instapago)
 
-- **[gustavoerivero/venecodollar](https://github.com/gustavoerivero/venecodollar)**: Venecodollar is a Typescript library that provides two asynchronous methods to obtain a JSON object with the different values that the do… [![GitHub last commit](https://img.shields.io/github/last-commit/gustavoerivero/venecodollar)](/gustavoerivero/venecodollar) [![GitHub Repo stars](https://img.shields.io/github/stars/gustavoerivero/venecodollar)](/gustavoerivero/venecodollar)
-
 - **[barreto-exe/inventas](https://github.com/barreto-exe/inventas)**: App de registro de inventario y ventas para emprendimientos que operan en economías con control cambiario. [![GitHub last commit](https://img.shields.io/github/last-commit/barreto-exe/inventas)](/barreto-exe/inventas) [![GitHub Repo stars](https://img.shields.io/github/stars/barreto-exe/inventas)](/barreto-exe/inventas)
+
+- **[gustavoerivero/venecodollar](https://github.com/gustavoerivero/venecodollar)**: Venecodollar is a Typescript library that provides two asynchronous methods to obtain a JSON object with the different values that the do… [![GitHub last commit](https://img.shields.io/github/last-commit/gustavoerivero/venecodollar)](/gustavoerivero/venecodollar) [![GitHub Repo stars](https://img.shields.io/github/stars/gustavoerivero/venecodollar)](/gustavoerivero/venecodollar)
 
 ## Mapas
 
@@ -27,7 +27,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Identificación
 
-- **[MegaCreativoTeam/CedulaVE-API](https://github.com/MegaCreativoTeam/CedulaVE-API)**: CedulaVE API es un script escrito en PHP para consultar datos personales de habitantes de Venezuela inscritos en el CNE mediante su Cédul… [![GitHub last commit](https://img.shields.io/github/last-commit/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API) [![GitHub Repo stars](https://img.shields.io/github/stars/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API)
+- **[MegaCreativoTeam/CedulaVE-API](https://github.com/MegaCreativoTeam/CedulaVE-API)**: CedulaVE API es un script escrito en PHP para consultar datos personales de habitantes de Venezuela inscritos en el CNE mediante su Cédula… [![GitHub last commit](https://img.shields.io/github/last-commit/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API) [![GitHub Repo stars](https://img.shields.io/github/stars/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API)
 
 ## Comunidades
 
