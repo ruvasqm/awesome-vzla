@@ -9,8 +9,6 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[abr4xas/php-instapago](https://github.com/abr4xas/php-instapago)**: Librería Instapago para PHP [![GitHub last commit](https://img.shields.io/github/last-commit/abr4xas/php-instapago)](/abr4xas/php-instapago) [![GitHub Repo stars](https://img.shields.io/github/stars/abr4xas/php-instapago)](/abr4xas/php-instapago)
 
-- **[barreto-exe/inventas](https://github.com/barreto-exe/inventas)**: App de registro de inventario y ventas para emprendimientos que operan en economías con control cambiario. [![GitHub last commit](https://img.shields.io/github/last-commit/barreto-exe/inventas)](/barreto-exe/inventas) [![GitHub Repo stars](https://img.shields.io/github/stars/barreto-exe/inventas)](/barreto-exe/inventas)
-
 - **[gustavoerivero/venecodollar](https://github.com/gustavoerivero/venecodollar)**: Venecodollar is a Typescript library that provides two asynchronous methods to obtain a JSON object with the different values that the do… [![GitHub last commit](https://img.shields.io/github/last-commit/gustavoerivero/venecodollar)](/gustavoerivero/venecodollar) [![GitHub Repo stars](https://img.shields.io/github/stars/gustavoerivero/venecodollar)](/gustavoerivero/venecodollar)
 
 ## Mapas
@@ -32,6 +30,8 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 ## Comunidades
 
 - **[OpenVE/comunidades-en-telegram](https://github.com/OpenVE/comunidades-en-telegram)**: Listado de Chats de Comunidades en Telegram [![GitHub last commit](https://img.shields.io/github/last-commit/OpenVE/comunidades-en-telegram)](/OpenVE/comunidades-en-telegram) [![GitHub Repo stars](https://img.shields.io/github/stars/OpenVE/comunidades-en-telegram)](/OpenVE/comunidades-en-telegram)
+
+- **[pyve/awesome-pyve](https://github.com/pyve/awesome-pyve)**: Recursos compartidos vía la comunidad de Python Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/pyve/awesome-pyve)](/pyve/awesome-pyve) [![GitHub Repo stars](https://img.shields.io/github/stars/pyve/awesome-pyve)](/pyve/awesome-pyve)
 
 ## Paquetes
 
