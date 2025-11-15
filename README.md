@@ -11,6 +11,8 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[gustavoerivero/venecodollar](https://github.com/gustavoerivero/venecodollar)**: Venecodollar is a Typescript library that provides two asynchronous methods to obtain a JSON object with the different values that the do… [![GitHub last commit](https://img.shields.io/github/last-commit/gustavoerivero/venecodollar)](/gustavoerivero/venecodollar) [![GitHub Repo stars](https://img.shields.io/github/stars/gustavoerivero/venecodollar)](/gustavoerivero/venecodollar)
 
+- **[barreto-exe/inventas](https://github.com/barreto-exe/inventas)**: App de registro de inventario y ventas para emprendimientos que operan en economías con control cambiario. [![GitHub last commit](https://img.shields.io/github/last-commit/barreto-exe/inventas)](/barreto-exe/inventas) [![GitHub Repo stars](https://img.shields.io/github/stars/barreto-exe/inventas)](/barreto-exe/inventas)
+
 ## Mapas
 
 - **[marydn/venezuela-sql](https://github.com/marydn/venezuela-sql)**: Estados, ciudades, municipios y parroquias de Venezuela en .sql. [![GitHub last commit](https://img.shields.io/github/last-commit/marydn/venezuela-sql)](/marydn/venezuela-sql) [![GitHub Repo stars](https://img.shields.io/github/stars/marydn/venezuela-sql)](/marydn/venezuela-sql)
