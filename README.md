@@ -27,7 +27,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Identificación
 
-- **[MegaCreativoTeam/CedulaVE-API](https://github.com/MegaCreativoTeam/CedulaVE-API)**: CedulaVE API es un script escrito en PHP para consultar datos personales de habitantes de Venezuela inscritos en el CNE mediante su Cédula… [![GitHub last commit](https://img.shields.io/github/last-commit/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API) [![GitHub Repo stars](https://img.shields.io/github/stars/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API)
+- **[MegaCreativoTeam/CedulaVE-API](https://github.com/MegaCreativoTeam/CedulaVE-API)**: CedulaVE API es un script escrito en PHP para consultar datos personales de habitantes de Venezuela inscritos en el CNE mediante su Cédul… [![GitHub last commit](https://img.shields.io/github/last-commit/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API) [![GitHub Repo stars](https://img.shields.io/github/stars/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API)
 
 ## Comunidades
 
