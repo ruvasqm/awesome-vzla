@@ -1,4 +1,3 @@
- google-generativeai
- requests
- beautifulsoup4
-
+google-genai
+requests
+beautifulsoup4

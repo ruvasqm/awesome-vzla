@@ -13,24 +13,23 @@ jobs:
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10.13'
+          python-version: '3.12'
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Set up Gemini API Key
-        run: echo "API_KEY=${{ secrets.API_KEY }}" >> $GITHUB_ENV
+      - name: Install uv
+        run: curl -LsSf https://astral.sh/uv/install.sh | sh
 
       - name: Run script
-        run: python scrape.py
+        run: uv run --with google-genai --with requests --with beautifulsoup4 scrape.py
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
 
       - name: Commit and push changes
-        uses: EndBug/add-and-commit@v7
+        uses: EndBug/add-and-commit@v9
         with:
           message: 'gh-actions: ${{ steps.date.outputs.date }} update'
           add: 'README.md'

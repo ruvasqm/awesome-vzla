@@ -6,7 +6,7 @@ from http import HTTPStatus
 from bs4 import BeautifulSoup, Tag
 import os
 import json
-import google.generativeai as genai
+from google import genai
 
 # Replace with your actual Google Cloud API Key
 API_KEY = os.environ.get("API_KEY")
@@ -39,7 +39,8 @@ def scrape_github_page(query, page):
 
     for n in range(retries):
         try:
-            response = requests.get(url)
+            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
+            response = requests.get(url, headers=headers)
             response.raise_for_status()  # Raise for any HTTP errors
             soup = BeautifulSoup(response.content, "html.parser")
             results_list = soup.find("div", {"data-testid": "results-list"})
@@ -74,39 +75,31 @@ def scrape_github_page(query, page):
 
         except HTTPError as exc:
             code = exc.response.status_code
-            print(exc.response.headers)
             if code in retry_codes:
-                # retry after n seconds
-                time.sleep(n)
+                time.sleep(n + 1)
                 continue
             raise
         except Exception as e:
             soup = BeautifulSoup(response.content, "html.parser")
-            error_message = soup.find("div", class_="container").text.strip()
-            if error_message == "Whoa there! You have exceeded a secondary rate limit. Please wait a few minutes before you try again; in some cases this may take up to an hour.":
-                print(f"Rate limit exceeded: {error_message}")
-                time.sleep(60 * (n + 1))  # Exponential backoff with a minimum of 1 minute
-                continue
+            error_msg_div = soup.find("div", class_="container")
+            if error_msg_div:
+                error_message = error_msg_div.text.strip()
+                if "exceeded a secondary rate limit" in error_message:
+                    print(f"Rate limit exceeded: {error_message}")
+                    time.sleep(60 * (n + 1))
+                    continue
             raise
 
 def classify_repositories(repositories):
-    """Classifies repositories based on their descriptions using Google Generative AI in a single call.
-
-    Args:
-        repositories (list): A list of dictionaries containing repository data.
-
-    Returns:
-        dict: A dictionary containing all scraped repositories categorized by their descriptions.
-    """
+    """Classifies repositories based on their descriptions using Google Generative AI."""
 
     if API_KEY is None:
         print("Please set API_KEY environment variable.")
-        return {}  # Return empty dict if key isn't provided
+        return {}
 
-    genai.configure(api_key=API_KEY)
-    model = genai.GenerativeModel("gemini-2.0-flash")
+    client = genai.Client(api_key=API_KEY)
+    model_id = "gemini-3-flash-preview"
 
-    # Build the prompt with the full JSON structure and output format
     prompt = f"""
     You will be provided with a JSON structure representing GitHub repositories.
     Your task is to classify each repository into one of these categories:
@@ -118,70 +111,48 @@ def classify_repositories(repositories):
     - **Otros:** Anything else that doesn't fit into the above categories.
 
     You must return a JSON object in the following format:
-    ```json
     {{
-        "Finanzas": [
-            {{ "link": "...", "description": "...", "stars": "..." }},
-            {{ "link": "...", "description": "...", "stars": "..." }},
-            ...
-        ],
-        "Mapas": [
-            ...
-        ],
-        "Identificación": [
-            ...
-        ],
-        "Comunidades": [
-            ...
-        ],
-        "Paquetes": [
-            ...
-        ],
-        "Otros": [
-            ...
-        ]
+        "Finanzas": [],
+        "Mapas": [],
+        "Identificación": [],
+        "Comunidades": [],
+        "Paquetes": [],
+        "Otros": []
     }}
-    ```
 
     Repositories:
     {json.dumps(repositories, indent=4)}
     """
 
-    try:
-        response = model.generate_content(prompt)
-        response_text = response.text.strip()
-
-        # Check for the code blocks and strip them
-        if response_text.startswith("```json") and response_text.endswith("```"):
-            response_text = response_text[7:-3].strip()
-
-        # Now try parsing the response as JSON
-        categorized_repositories = json.loads(response_text)
-        return categorized_repositories
-    except Exception as e:
-        print(f"Google Generative AI request failed or returned invalid JSON: {e}")
-        print(f"Raw Gemini response: {response_text}")
-        return {}
+    for attempt in range(3):
+        try:
+            time.sleep(1 + attempt * 2)
+            response = client.models.generate_content(
+                model=model_id,
+                contents=prompt,
+                config={'response_mime_type': 'application/json'}
+            )
+            return json.loads(response.text)
+        except Exception as e:
+            print(f"Attempt {attempt + 1} failed: {e}")
+            if attempt == 2:
+                return {}
+    return {}
 
 def write_markdown(categorized_repositories, filename="README.md"):
-    """Writes a markdown file with categorized repositories.
-
-    Args:
-        categorized_repositories (dict): A dictionary containing categorized repositories.
-        filename (str, optional): The filename for the markdown file. Defaults to "awesome_venezuela.md".
-    """
+    """Writes a markdown file with categorized repositories."""
 
     with open(filename, "w") as f:
         f.write("# Awesome Venezuela\n")
         f.write("Recursos para desarrolladores ![made in VE](madeinve.svg) !\n\n")
 
         for category, repos in categorized_repositories.items():
+            if not repos:
+                continue
             f.write(f"## {category}\n\n")
             for repo in repos:
                 link = repo["link"]
-                description = repo["description"]
-
-                # Construct the markdown line with the desired badges
+                description = repo.get("description", link)
                 f.write(f"- **[{link[1:]}](https://github.com{link})**{': '+description if description != link else ''} "
                         f"[![GitHub last commit](https://img.shields.io/github/last-commit/{link.split('/')[1]}/{link.split('/')[2]})]({link}) "
                         f"[![GitHub Repo stars](https://img.shields.io/github/stars/{link.split('/')[1]}/{link.split('/')[2]})]({link})\n\n")
@@ -194,16 +165,14 @@ def main():
 
     for page in range(1, 6):
         page_results = scrape_github_page(query, page)
-
-        # Check if the first result has less than 10 stars
-        if page_results and page_results[0]["stars"] < MIN_STARS:
+        if not page_results:
             break
-
+        if page_results[0]["stars"] < MIN_STARS:
+            repositories.extend([r for r in page_results if r["stars"] >= MIN_STARS])
+            break
         repositories.extend(page_results)
 
-    # Classify all repositories at once
     categorized_repositories = classify_repositories(repositories)
-
     print(json.dumps(categorized_repositories, indent=4))
     write_markdown(categorized_repositories)
 
