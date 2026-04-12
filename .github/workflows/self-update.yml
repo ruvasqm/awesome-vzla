@@ -1,6 +1,7 @@
 name: Awesome Venezuela Update
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 3 * * *'
 
@@ -24,7 +25,7 @@ jobs:
         run: curl -LsSf https://astral.sh/uv/install.sh | sh
 
       - name: Run script
-        run: uv run --with google-genai --with requests --with beautifulsoup4 scrape.py
+        run: uv run --with pydantic --with google-genai --with requests --with beautifulsoup4 scrape.py
         env:
           API_KEY: ${{ secrets.API_KEY }}
 

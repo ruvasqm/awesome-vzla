@@ -7,12 +7,34 @@ from bs4 import BeautifulSoup, Tag
 import os
 import json
 from google import genai
+from pydantic import BaseModel, Field
+from typing import List
 
 # Replace with your actual Google Cloud API Key
 API_KEY = os.environ.get("API_KEY")
 MIN_STARS = 20
 
 EXCLUDED_USERS = ["nesttyy"]  # Add more users to this list if needed
+
+class Repository(BaseModel):
+    link: str
+    description: str
+
+class CategorizedRepositories(BaseModel):
+    Finanzas: List[Repository] = Field(default_factory=list)
+    Mapas: List[Repository] = Field(default_factory=list)
+    Identificación: List[Repository] = Field(default_factory=list)
+    Comunidades: List[Repository] = Field(default_factory=list)
+    Paquetes: List[Repository] = Field(default_factory=list)
+    E_commerce: List[Repository] = Field(default_factory=list, alias="E-commerce")
+    Gobierno: List[Repository] = Field(default_factory=list)
+    Utilidades: List[Repository] = Field(default_factory=list)
+    Educación: List[Repository] = Field(default_factory=list)
+    Salud: List[Repository] = Field(default_factory=list)
+    Otros: List[Repository] = Field(default_factory=list)
+
+    class Config:
+        populate_by_name = True
 
 def scrape_github_page(query, page):
     """Scrapes a single page of GitHub search results.
@@ -103,24 +125,22 @@ def classify_repositories(repositories):
     prompt = f"""
     You will be provided with a JSON structure representing GitHub repositories.
     Your task is to classify each repository into one of these categories:
-    - **Finanzas**: Anything related to price APIs, banks, and similar things
-    - **Mapas**: Postal Codes, City names, geographic data, etc
-    - **Identificación**: Anything related to goverment ID (Cedula), passport, RIF, etc
-    - **Comunidades**: Social network groups
+    - **Finanzas**: Anything related to price APIs, banks, and similar things.
+    - **Mapas**: Postal Codes, City names, geographic data, etc.
+    - **Identificación**: Anything related to government ID (Cedula), passport, RIF, etc.
+    - **Comunidades**: Social network groups.
     - **Paquetes**: Tech stack - specific software that is related to Venezuela, i.e: Odoo, wordpress, woocommerce, shopify, etc.
+    - **E-commerce**: Delivery platform integrations, shipping tracking (MRW, Tealca, Zoom), local payment gateways.
+    - **Gobierno**: Election results, census data, public observatories, and transparency tools.
+    - **Utilidades**: Browser extensions, developer CLI tools, and productivity scripts.
+    - **Educación**: University resources, academic archives, and cultural preservation projects.
+    - **Salud**: Pharmacy stock trackers, medical directories, or public health data.
     - **Otros:** Anything else that doesn't fit into the above categories.
 
-    You must return a JSON object in the following format:
-    {{
-        "Finanzas": [],
-        "Mapas": [],
-        "Identificación": [],
-        "Comunidades": [],
-        "Paquetes": [],
-        "Otros": []
-    }}
+    You must return a JSON object where each category is a list of objects. Each object MUST have a "link" and "description" field.
+    Use the exact "link" and "description" provided in the Input JSON.
 
-    Repositories:
+    Input JSON:
     {json.dumps(repositories, indent=4)}
     """
 
@@ -130,9 +150,13 @@ def classify_repositories(repositories):
             response = client.models.generate_content(
                 model=model_id,
                 contents=prompt,
-                config={'response_mime_type': 'application/json'}
+                config={
+                    'response_mime_type': 'application/json',
+                    'response_schema': CategorizedRepositories,
+                }
             )
-            return json.loads(response.text)
+            # The SDK returns the parsed response when response_schema is provided
+            return response.parsed.model_dump()
         except Exception as e:
             print(f"Attempt {attempt + 1} failed: {e}")
             if attempt == 2:
@@ -151,8 +175,16 @@ def write_markdown(categorized_repositories, filename="README.md"):
                 continue
             f.write(f"## {category}\n\n")
             for repo in repos:
-                link = repo["link"]
-                description = repo.get("description", link)
+                if isinstance(repo, dict):
+                    link = repo.get("link", "")
+                    description = repo.get("description", link)
+                else:
+                    link = str(repo)
+                    description = link
+
+                if not link:
+                    continue
+
                 f.write(f"- **[{link[1:]}](https://github.com{link})**{': '+description if description != link else ''} "
                         f"[![GitHub last commit](https://img.shields.io/github/last-commit/{link.split('/')[1]}/{link.split('/')[2]})]({link}) "
                         f"[![GitHub Repo stars](https://img.shields.io/github/stars/{link.split('/')[1]}/{link.split('/')[2]})]({link})\n\n")
