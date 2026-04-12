@@ -156,17 +156,25 @@ def classify_repositories(repositories):
                 }
             )
             # The SDK returns the parsed response when response_schema is provided
-            return response.parsed.model_dump()
+            return response.parsed.model_dump(by_alias=True)
         except Exception as e:
             print(f"Attempt {attempt + 1} failed: {e}")
             if attempt == 2:
                 return {}
     return {}
 
+def sanitize(text):
+    """Removes null bytes and other non-printable characters."""
+    if not isinstance(text, str):
+        return text
+    # Remove null bytes which break markdown rendering
+    # and replace newlines with spaces to keep markdown list structure
+    return text.replace("\x00", "").replace("\n", " ").replace("\r", " ").strip()
+
 def write_markdown(categorized_repositories, filename="README.md"):
     """Writes a markdown file with categorized repositories."""
 
-    with open(filename, "w") as f:
+    with open(filename, "w", encoding="utf-8") as f:
         f.write("# Awesome Venezuela\n")
         f.write("Recursos para desarrolladores ![made in VE](madeinve.svg) !\n\n")
 
@@ -176,10 +184,10 @@ def write_markdown(categorized_repositories, filename="README.md"):
             f.write(f"## {category}\n\n")
             for repo in repos:
                 if isinstance(repo, dict):
-                    link = repo.get("link", "")
-                    description = repo.get("description", link)
+                    link = sanitize(repo.get("link", ""))
+                    description = sanitize(repo.get("description", link))
                 else:
-                    link = str(repo)
+                    link = sanitize(str(repo))
                     description = link
 
                 if not link:
