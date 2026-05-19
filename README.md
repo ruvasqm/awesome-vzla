@@ -19,6 +19,8 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[joserafael/venezuela](https://github.com/joserafael/venezuela)**: Estados, municipios, ciudades y parroquias de Venezuela en Mysql para cakephp o cualquier otro framework que use Active Record [![GitHub last commit](https://img.shields.io/github/last-commit/joserafael/venezuela)](/joserafael/venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/joserafael/venezuela)](/joserafael/venezuela)
 
+- **[CodersVenezuela/Venezuela-JSON](https://github.com/CodersVenezuela/Venezuela-JSON)**: Estados, municipios, ciudades y parroquias de Venezuela en JSON [![GitHub last commit](https://img.shields.io/github/last-commit/CodersVenezuela/Venezuela-JSON)](/CodersVenezuela/Venezuela-JSON) [![GitHub Repo stars](https://img.shields.io/github/stars/CodersVenezuela/Venezuela-JSON)](/CodersVenezuela/Venezuela-JSON)
+
 ## Identificación
 
 - **[MegaCreativoTeam/CedulaVE-API](https://github.com/MegaCreativoTeam/CedulaVE-API)**: CedulaVE API es un script escrito en PHP para consultar datos personales de habitantes de Venezuela inscritos en el CNE mediante su Cédul… [![GitHub last commit](https://img.shields.io/github/last-commit/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API) [![GitHub Repo stars](https://img.shields.io/github/stars/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API)
@@ -32,8 +34,6 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 - **[odoo-mastercore/odoo-venezuela](https://github.com/odoo-mastercore/odoo-venezuela)**: Localización para Venezuela odoo [![GitHub last commit](https://img.shields.io/github/last-commit/odoo-mastercore/odoo-venezuela)](/odoo-mastercore/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/odoo-mastercore/odoo-venezuela)](/odoo-mastercore/odoo-venezuela)
 
 - **[binaural-dev/odoo-venezuela](https://github.com/binaural-dev/odoo-venezuela)**: Una localización de Binaural para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/binaural-dev/odoo-venezuela)](/binaural-dev/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/binaural-dev/odoo-venezuela)](/binaural-dev/odoo-venezuela)
-
-- **[avodoo/recursos-avodoo](https://github.com/avodoo/recursos-avodoo)**: Recursos oficiales para la comunidad Odoo en Venezuela: guías, plantillas y documentación técnica para apoyar la homologación y fortalece… [![GitHub last commit](https://img.shields.io/github/last-commit/avodoo/recursos-avodoo)](/avodoo/recursos-avodoo) [![GitHub Repo stars](https://img.shields.io/github/stars/avodoo/recursos-avodoo)](/avodoo/recursos-avodoo)
 
 ## E-commerce
 
