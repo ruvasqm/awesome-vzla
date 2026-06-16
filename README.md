@@ -3,7 +3,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Finanzas
 
-- **[enzonotario/esjs-dolar-api](https://github.com/enzonotario/esjs-dolar-api)**: API desarrollada en EsJS para las diferentes cotizaciones de Dólar en Argentina, Chile, Venezuela, Uruguay, México, Bolivia, Brasil y Col… [![GitHub last commit](https://img.shields.io/github/last-commit/enzonotario/esjs-dolar-api)](/enzonotario/esjs-dolar-api) [![GitHub Repo stars](https://img.shields.io/github/stars/enzonotario/esjs-dolar-api)](/enzonotario/esjs-dolar-api)
+- **[enzonotario/dolarapi.com](https://github.com/enzonotario/dolarapi.com)**: API desarrollada en EsJS para las diferentes cotizaciones de Dólar en Argentina, Chile, Venezuela, Uruguay, México, Bolivia, Brasil y Col… [![GitHub last commit](https://img.shields.io/github/last-commit/enzonotario/dolarapi.com)](/enzonotario/dolarapi.com) [![GitHub Repo stars](https://img.shields.io/github/stars/enzonotario/dolarapi.com)](/enzonotario/dolarapi.com)
 
 - **[rafnixg/bcv-api](https://github.com/rafnixg/bcv-api)**: BCV Exchange rate: This API is used to get the exchange rate of the BCV (Central Bank of Venezuela) [![GitHub last commit](https://img.shields.io/github/last-commit/rafnixg/bcv-api)](/rafnixg/bcv-api) [![GitHub Repo stars](https://img.shields.io/github/stars/rafnixg/bcv-api)](/rafnixg/bcv-api)
 
