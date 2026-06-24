@@ -3,11 +3,11 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Finanzas
 
-- **[enzonotario/dolarapi.com](https://github.com/enzonotario/dolarapi.com)**: API desarrollada en EsJS para las diferentes cotizaciones de D3lar en Argentina, Chile, Venezuela, Uruguay, M#xico, Bolivia, Brasil y Col… [![GitHub last commit](https://img.shields.io/github/last-commit/enzonotario/dolarapi.com)](/enzonotario/dolarapi.com) [![GitHub Repo stars](https://img.shields.io/github/stars/enzonotario/dolarapi.com)](/enzonotario/dolarapi.com)
+- **[enzonotario/dolarapi.com](https://github.com/enzonotario/dolarapi.com)**: API desarrollada en EsJS para las diferentes cotizaciones de D3lar en Argentina, Chile, Venezuela, Uruguay, M9xico, Bolivia, Brasil y Col… [![GitHub last commit](https://img.shields.io/github/last-commit/enzonotario/dolarapi.com)](/enzonotario/dolarapi.com) [![GitHub Repo stars](https://img.shields.io/github/stars/enzonotario/dolarapi.com)](/enzonotario/dolarapi.com)
 
 - **[rafnixg/bcv-api](https://github.com/rafnixg/bcv-api)**: BCV Exchange rate: This API is used to get the exchange rate of the BCV (Central Bank of Venezuela) [![GitHub last commit](https://img.shields.io/github/last-commit/rafnixg/bcv-api)](/rafnixg/bcv-api) [![GitHub Repo stars](https://img.shields.io/github/stars/rafnixg/bcv-api)](/rafnixg/bcv-api)
 
-- **[btcven/api](https://github.com/btcven/api)**: Bitcoin Venezuela's BTCVES (Bitcoin-Bol#var) prices API [![GitHub last commit](https://img.shields.io/github/last-commit/btcven/api)](/btcven/api) [![GitHub Repo stars](https://img.shields.io/github/stars/btcven/api)](/btcven/api)
+- **[btcven/api](https://github.com/btcven/api)**: Bitcoin Venezuela's BTCVES (Bitcoin-Bol9var) prices API [![GitHub last commit](https://img.shields.io/github/last-commit/btcven/api)](/btcven/api) [![GitHub Repo stars](https://img.shields.io/github/stars/btcven/api)](/btcven/api)
 
 ## Mapas
 
@@ -23,7 +23,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Identificación
 
-- **[MegaCreativoTeam/CedulaVE-API](https://github.com/MegaCreativoTeam/CedulaVE-API)**: CedulaVE API es un script escrito en PHP para consultar datos personales de habitantes de Venezuela inscritos en el CNE mediante su C#dul… [![GitHub last commit](https://img.shields.io/github/last-commit/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API) [![GitHub Repo stars](https://img.shields.io/github/stars/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API)
+- **[MegaCreativoTeam/CedulaVE-API](https://github.com/MegaCreativoTeam/CedulaVE-API)**: CedulaVE API es un script escrito en PHP para consultar datos personales de habitantes de Venezuela inscritos en el CNE mediante su C9dul… [![GitHub last commit](https://img.shields.io/github/last-commit/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API) [![GitHub Repo stars](https://img.shields.io/github/stars/MegaCreativoTeam/CedulaVE-API)](/MegaCreativoTeam/CedulaVE-API)
 
 ## Comunidades
 
@@ -37,7 +37,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## E-commerce
 
-- **[abr4xas/php-instapago](https://github.com/abr4xas/php-instapago)**: Librer#a Instapago para PHP [![GitHub last commit](https://img.shields.io/github/last-commit/abr4xas/php-instapago)](/abr4xas/php-instapago) [![GitHub Repo stars](https://img.shields.io/github/stars/abr4xas/php-instapago)](/abr4xas/php-instapago)
+- **[abr4xas/php-instapago](https://github.com/abr4xas/php-instapago)**: Librer9a Instapago para PHP [![GitHub last commit](https://img.shields.io/github/last-commit/abr4xas/php-instapago)](/abr4xas/php-instapago) [![GitHub Repo stars](https://img.shields.io/github/stars/abr4xas/php-instapago)](/abr4xas/php-instapago)
 
 ## Gobierno
 
@@ -49,6 +49,8 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Utilidades
 
+- **[YipiApp/Venezuela](https://github.com/YipiApp/Venezuela)**: Herramientas para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/YipiApp/Venezuela)](/YipiApp/Venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/YipiApp/Venezuela)](/YipiApp/Venezuela)
+
 - **[bameda/chrome-ext-venezuela-no-more](https://github.com/bameda/chrome-ext-venezuela-no-more)**: A funny Chrome extension to get away from Venezuela when you read the Spanish press. [![GitHub last commit](https://img.shields.io/github/last-commit/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more) [![GitHub Repo stars](https://img.shields.io/github/stars/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more)
 
 ## Otros
@@ -56,6 +58,4 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 - **[code-for-venezuela/2019-april-codeathon](https://github.com/code-for-venezuela/2019-april-codeathon)**: Code For Venezuela - April Codeathon [![GitHub last commit](https://img.shields.io/github/last-commit/code-for-venezuela/2019-april-codeathon)](/code-for-venezuela/2019-april-codeathon) [![GitHub Repo stars](https://img.shields.io/github/stars/code-for-venezuela/2019-april-codeathon)](/code-for-venezuela/2019-april-codeathon)
 
 - **[kbtale/awesome-venezuela](https://github.com/kbtale/awesome-venezuela)**: A collection of cool projects and tools built by Venezuelan devs. [![GitHub last commit](https://img.shields.io/github/last-commit/kbtale/awesome-venezuela)](/kbtale/awesome-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/kbtale/awesome-venezuela)](/kbtale/awesome-venezuela)
-
-- **[YipiApp/Venezuela](https://github.com/YipiApp/Venezuela)**: Herramientas para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/YipiApp/Venezuela)](/YipiApp/Venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/YipiApp/Venezuela)](/YipiApp/Venezuela)
 
