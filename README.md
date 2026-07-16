@@ -53,7 +53,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Gobierno
 
-- **[Ringmast4r/crystal-vault](https://github.com/Ringmast4r/crystal-vault)**: Documenting Venezuela's surveillance infrastructure through their own open APIs. La Bvoda de Cristal - A vault made of glass. [![GitHub last commit](https://img.shields.io/github/last-commit/Ringmast4r/crystal-vault)](/Ringmast4r/crystal-vault) [![GitHub Repo stars](https://img.shields.io/github/stars/Ringmast4r/crystal-vault)](/Ringmast4r/crystal-vault)
+- **[Ringmast4r/crystal-vault](https://github.com/Ringmast4r/crystal-vault)**: Documenting Venezuela's surveillance infrastructure through their own open APIs. La Bveda de Cristal - A vault made of glass. [![GitHub last commit](https://img.shields.io/github/last-commit/Ringmast4r/crystal-vault)](/Ringmast4r/crystal-vault) [![GitHub Repo stars](https://img.shields.io/github/stars/Ringmast4r/crystal-vault)](/Ringmast4r/crystal-vault)
 
 - **[ggangix/venezuela-digital-observatory](https://github.com/ggangix/venezuela-digital-observatory)**: Public dataset of Venezuelan government domains (.gob.ve) with registration dates, expiration, and infrastructure data. Updated periodica… [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/venezuela-digital-observatory)](/ggangix/venezuela-digital-observatory) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/venezuela-digital-observatory)](/ggangix/venezuela-digital-observatory)
 
@@ -61,11 +61,13 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Utilidades
 
-- **[YipiApp/Venezuela](https://github.com/YipiApp/Venezuela)**: Herramientas para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/YipiApp/Venezuela)](/YipiApp/Venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/YipiApp/Venezuela)](/YipiApp/Venezuela)
-
 - **[bameda/chrome-ext-venezuela-no-more](https://github.com/bameda/chrome-ext-venezuela-no-more)**: A funny Chrome extension to get away from Venezuela when you read the Spanish press. [![GitHub last commit](https://img.shields.io/github/last-commit/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more) [![GitHub Repo stars](https://img.shields.io/github/stars/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more)
 
-- **[Villanuevand/openve-cli](https://github.com/Villanuevand/openve-cli)**:  Localiza las comunidades tecnolgicas de Venezuela  que hacen vida en Telegram reconocidas por OpenVE. [![GitHub last commit](https://img.shields.io/github/last-commit/Villanuevand/openve-cli)](/Villanuevand/openve-cli) [![GitHub Repo stars](https://img.shields.io/github/stars/Villanuevand/openve-cli)](/Villanuevand/openve-cli)
+- **[Villanuevand/openve-cli](https://github.com/Villanuevand/openve-cli)**: Localiza las comunidades tecnolgicas de Venezuela  que hacen vida en Telegram reconocidas por OpenVE. [![GitHub last commit](https://img.shields.io/github/last-commit/Villanuevand/openve-cli)](/Villanuevand/openve-cli) [![GitHub Repo stars](https://img.shields.io/github/stars/Villanuevand/openve-cli)](/Villanuevand/openve-cli)
+
+## Salud
+
+- **[ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela)**: Registro open source y colaborativo de personas ya localizadas tras el sismo en Venezuela. Bsqueda, pginas por persona/lugar y API pbl… [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela)
 
 ## Otros
 
@@ -75,7 +77,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[kbtale/awesome-venezuela](https://github.com/kbtale/awesome-venezuela)**: A collection of cool projects and tools built by Venezuelan devs. [![GitHub last commit](https://img.shields.io/github/last-commit/kbtale/awesome-venezuela)](/kbtale/awesome-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/kbtale/awesome-venezuela)](/kbtale/awesome-venezuela)
 
-- **[ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela)**: Registro open source y colaborativo de personas ya localizadas tras el sismo en Venezuela. Bsqueda, pginas por persona/lugar y API pbl… [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela)
+- **[YipiApp/Venezuela](https://github.com/YipiApp/Venezuela)**: Herramientas para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/YipiApp/Venezuela)](/YipiApp/Venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/YipiApp/Venezuela)](/YipiApp/Venezuela)
 
 - **[DataVenezuela/VenezuelaDataCrisis](https://github.com/DataVenezuela/VenezuelaDataCrisis)**: Limpiemos los registros en esta crisis [![GitHub last commit](https://img.shields.io/github/last-commit/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis) [![GitHub Repo stars](https://img.shields.io/github/stars/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis)
 
