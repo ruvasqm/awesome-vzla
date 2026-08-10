@@ -43,9 +43,9 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[avodoo/recursos-avodoo](https://github.com/avodoo/recursos-avodoo)**: Recursos oficiales para la comunidad Odoo en Venezuela: guías, plantillas y documentación técnica para apoyar la homologación y fortalece… [![GitHub last commit](https://img.shields.io/github/last-commit/avodoo/recursos-avodoo)](/avodoo/recursos-avodoo) [![GitHub Repo stars](https://img.shields.io/github/stars/avodoo/recursos-avodoo)](/avodoo/recursos-avodoo)
 
-- **[odoo-venezuela/odoo-venezuela](https://github.com/odoo-venezuela/odoo-venezuela)**: Localización Venezolana de Odoo. [![GitHub last commit](https://img.shields.io/github/last-commit/odoo-venezuela/odoo-venezuela)](/odoo-venezuela/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/odoo-venezuela/odoo-venezuela)](/odoo-venezuela/odoo-venezuela)
-
 - **[Vauxoo/odoo-venezuela](https://github.com/Vauxoo/odoo-venezuela)** [![GitHub last commit](https://img.shields.io/github/last-commit/Vauxoo/odoo-venezuela)](/Vauxoo/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/Vauxoo/odoo-venezuela)](/Vauxoo/odoo-venezuela)
+
+- **[odoo-venezuela/odoo-venezuela](https://github.com/odoo-venezuela/odoo-venezuela)**: Localización Venezolana de Odoo. [![GitHub last commit](https://img.shields.io/github/last-commit/odoo-venezuela/odoo-venezuela)](/odoo-venezuela/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/odoo-venezuela/odoo-venezuela)](/odoo-venezuela/odoo-venezuela)
 
 ## E-commerce
 
@@ -63,8 +63,6 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Utilidades
 
-- **[YipiApp/Venezuela](https://github.com/YipiApp/Venezuela)**: Herramientas para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/YipiApp/Venezuela)](/YipiApp/Venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/YipiApp/Venezuela)](/YipiApp/Venezuela)
-
 - **[bameda/chrome-ext-venezuela-no-more](https://github.com/bameda/chrome-ext-venezuela-no-more)**: A funny Chrome extension to get away from Venezuela when you read the Spanish press. [![GitHub last commit](https://img.shields.io/github/last-commit/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more) [![GitHub Repo stars](https://img.shields.io/github/stars/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more)
 
 ## Otros
@@ -75,7 +73,9 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[kbtale/awesome-venezuela](https://github.com/kbtale/awesome-venezuela)**: A collection of cool projects and tools built by Venezuelan devs. [![GitHub last commit](https://img.shields.io/github/last-commit/kbtale/awesome-venezuela)](/kbtale/awesome-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/kbtale/awesome-venezuela)](/kbtale/awesome-venezuela)
 
-- **[ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela)**: Registro open source y colaborativo de personas ya localizadas tras el sismo en Venezuela. Bùsqueda, páginas por persona/lugar y API pùbl… [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela)
+- **[ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela)**: Registro open source y colaborativo de personas ya localizadas tras el sismo en Venezuela. Bösqueda, páginas por persona/lugar y API pöbl… [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela)
+
+- **[YipiApp/Venezuela](https://github.com/YipiApp/Venezuela)**: Herramientas para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/YipiApp/Venezuela)](/YipiApp/Venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/YipiApp/Venezuela)](/YipiApp/Venezuela)
 
 - **[DataVenezuela/VenezuelaDataCrisis](https://github.com/DataVenezuela/VenezuelaDataCrisis)**: Limpiemos los registros en esta crisis [![GitHub last commit](https://img.shields.io/github/last-commit/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis) [![GitHub Repo stars](https://img.shields.io/github/stars/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis)
 
