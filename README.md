@@ -3,11 +3,13 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Finanzas
 
-- **[enzonotario/dolarapi.com](https://github.com/enzonotario/dolarapi.com)**: API desarrollada en EsJS para las diferentes cotizaciones de Dolar en Argentina, Chile, Venezuela, Uruguay, México, Bolivia, Brasil y Col… [![GitHub last commit](https://img.shields.io/github/last-commit/enzonotario/dolarapi.com)](/enzonotario/dolarapi.com) [![GitHub Repo stars](https://img.shields.io/github/stars/enzonotario/dolarapi.com)](/enzonotario/dolarapi.com)
+- **[enzonotario/dolarapi.com](https://github.com/enzonotario/dolarapi.com)**: API desarrollada en EsJS para las diferentes cotizaciones de Dólar en Argentina, Chile, Venezuela, Uruguay, México, Bolivia, Brasil y Col… [![GitHub last commit](https://img.shields.io/github/last-commit/enzonotario/dolarapi.com)](/enzonotario/dolarapi.com) [![GitHub Repo stars](https://img.shields.io/github/stars/enzonotario/dolarapi.com)](/enzonotario/dolarapi.com)
 
 - **[rafnixg/bcv-api](https://github.com/rafnixg/bcv-api)**: BCV Exchange rate: This API is used to get the exchange rate of the BCV (Central Bank of Venezuela) [![GitHub last commit](https://img.shields.io/github/last-commit/rafnixg/bcv-api)](/rafnixg/bcv-api) [![GitHub Repo stars](https://img.shields.io/github/stars/rafnixg/bcv-api)](/rafnixg/bcv-api)
 
 - **[btcven/api](https://github.com/btcven/api)**: Bitcoin Venezuela's BTCVES (Bitcoin-Bolívar) prices API [![GitHub last commit](https://img.shields.io/github/last-commit/btcven/api)](/btcven/api) [![GitHub Repo stars](https://img.shields.io/github/stars/btcven/api)](/btcven/api)
+
+- **[barreto-exe/inventas](https://github.com/barreto-exe/inventas)**: App de registro de inventario y ventas para emprendimientos que operan en economías con control cambiario. [![GitHub last commit](https://img.shields.io/github/last-commit/barreto-exe/inventas)](/barreto-exe/inventas) [![GitHub Repo stars](https://img.shields.io/github/stars/barreto-exe/inventas)](/barreto-exe/inventas)
 
 - **[gustavoerivero/venecodollar](https://github.com/gustavoerivero/venecodollar)**: Venecodollar is a Typescript library that provides two asynchronous methods to obtain a JSON object with the different values that the do… [![GitHub last commit](https://img.shields.io/github/last-commit/gustavoerivero/venecodollar)](/gustavoerivero/venecodollar) [![GitHub Repo stars](https://img.shields.io/github/stars/gustavoerivero/venecodollar)](/gustavoerivero/venecodollar)
 
@@ -49,8 +51,6 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[abr4xas/php-instapago](https://github.com/abr4xas/php-instapago)**: Librería Instapago para PHP [![GitHub last commit](https://img.shields.io/github/last-commit/abr4xas/php-instapago)](/abr4xas/php-instapago) [![GitHub Repo stars](https://img.shields.io/github/stars/abr4xas/php-instapago)](/abr4xas/php-instapago)
 
-- **[barreto-exe/inventas](https://github.com/barreto-exe/inventas)**: App de registro de inventario y ventas para emprendimientos que operan en economías con control cambiario. [![GitHub last commit](https://img.shields.io/github/last-commit/barreto-exe/inventas)](/barreto-exe/inventas) [![GitHub Repo stars](https://img.shields.io/github/stars/barreto-exe/inventas)](/barreto-exe/inventas)
-
 ## Gobierno
 
 - **[Ringmast4r/crystal-vault](https://github.com/Ringmast4r/crystal-vault)**: Documenting Venezuela's surveillance infrastructure through their own open APIs. La Bóveda de Cristal - A vault made of glass. [![GitHub last commit](https://img.shields.io/github/last-commit/Ringmast4r/crystal-vault)](/Ringmast4r/crystal-vault) [![GitHub Repo stars](https://img.shields.io/github/stars/Ringmast4r/crystal-vault)](/Ringmast4r/crystal-vault)
@@ -63,21 +63,21 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## Utilidades
 
-- **[YipiApp/Venezuela](https://github.com/YipiApp/Venezuela)**: Herramientas para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/YipiApp/Venezuela)](/YipiApp/Venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/YipiApp/Venezuela)](/YipiApp/Venezuela)
-
 - **[bameda/chrome-ext-venezuela-no-more](https://github.com/bameda/chrome-ext-venezuela-no-more)**: A funny Chrome extension to get away from Venezuela when you read the Spanish press. [![GitHub last commit](https://img.shields.io/github/last-commit/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more) [![GitHub Repo stars](https://img.shields.io/github/stars/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more)
 
 - **[Villanuevand/openve-cli](https://github.com/Villanuevand/openve-cli)**: 📡 Localiza las comunidades tecnológicas de Venezuela 🇻🇪 que hacen vida en Telegram reconocidas por OpenVE. [![GitHub last commit](https://img.shields.io/github/last-commit/Villanuevand/openve-cli)](/Villanuevand/openve-cli) [![GitHub Repo stars](https://img.shields.io/github/stars/Villanuevand/openve-cli)](/Villanuevand/openve-cli)
 
 ## Salud
 
-- **[ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela)**: Registro open source y colaborativo de personas ya localizadas tras el sismo en Venezuela. Bösqueda, páginas por persona/lugar y API pöbl… [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela)
+- **[ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela)**: Registro open source y colaborativo de personas ya localizadas tras el sismo en Venezuela. Bösqueda, páginas por persona/lugar y API pùbl… [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela)
 
 ## Otros
 
 - **[code-for-venezuela/2019-april-codeathon](https://github.com/code-for-venezuela/2019-april-codeathon)**: Code For Venezuela - April Codeathon [![GitHub last commit](https://img.shields.io/github/last-commit/code-for-venezuela/2019-april-codeathon)](/code-for-venezuela/2019-april-codeathon) [![GitHub Repo stars](https://img.shields.io/github/stars/code-for-venezuela/2019-april-codeathon)](/code-for-venezuela/2019-april-codeathon)
 
 - **[kbtale/awesome-venezuela](https://github.com/kbtale/awesome-venezuela)**: A collection of cool projects and tools built by Venezuelan devs. [![GitHub last commit](https://img.shields.io/github/last-commit/kbtale/awesome-venezuela)](/kbtale/awesome-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/kbtale/awesome-venezuela)](/kbtale/awesome-venezuela)
+
+- **[YipiApp/Venezuela](https://github.com/YipiApp/Venezuela)**: Herramientas para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/YipiApp/Venezuela)](/YipiApp/Venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/YipiApp/Venezuela)](/YipiApp/Venezuela)
 
 - **[DataVenezuela/VenezuelaDataCrisis](https://github.com/DataVenezuela/VenezuelaDataCrisis)**: Limpiemos los registros en esta crisis [![GitHub last commit](https://img.shields.io/github/last-commit/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis) [![GitHub Repo stars](https://img.shields.io/github/stars/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis)
 
