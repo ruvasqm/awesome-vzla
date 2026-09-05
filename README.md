@@ -35,8 +35,6 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[pyve/awesome-pyve](https://github.com/pyve/awesome-pyve)**: Recursos compartidos v3a la comunidad de Python Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/pyve/awesome-pyve)](/pyve/awesome-pyve) [![GitHub Repo stars](https://img.shields.io/github/stars/pyve/awesome-pyve)](/pyve/awesome-pyve)
 
-- **[Villanuevand/openve-cli](https://github.com/Villanuevand/openve-cli)**: 1CE Localiza las comunidades tecnol3gicas de Venezuela 1CD1CE que hacen vida en Telegram reconocidas por OpenVE. [![GitHub last commit](https://img.shields.io/github/last-commit/Villanuevand/openve-cli)](/Villanuevand/openve-cli) [![GitHub Repo stars](https://img.shields.io/github/stars/Villanuevand/openve-cli)](/Villanuevand/openve-cli)
-
 ## Paquetes
 
 - **[odoo-mastercore/odoo-venezuela](https://github.com/odoo-mastercore/odoo-venezuela)**: Localizaci3n para Venezuela odoo [![GitHub last commit](https://img.shields.io/github/last-commit/odoo-mastercore/odoo-venezuela)](/odoo-mastercore/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/odoo-mastercore/odoo-venezuela)](/odoo-mastercore/odoo-venezuela)
@@ -59,6 +57,8 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[ggangix/venezuela-digital-observatory](https://github.com/ggangix/venezuela-digital-observatory)**: Public dataset of Venezuelan government domains (.gob.ve) with registration dates, expiration, and infrastructure data. Updated periodica… [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/venezuela-digital-observatory)](/ggangix/venezuela-digital-observatory) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/venezuela-digital-observatory)](/ggangix/venezuela-digital-observatory)
 
+- **[DataVenezuela/VenezuelaDataCrisis](https://github.com/DataVenezuela/VenezuelaDataCrisis)**: Limpiemos los registros en esta crisis [![GitHub last commit](https://img.shields.io/github/last-commit/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis) [![GitHub Repo stars](https://img.shields.io/github/stars/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis)
+
 - **[ggangix/resultados-elecciones-venezuela-macedonia-del-norte](https://github.com/ggangix/resultados-elecciones-venezuela-macedonia-del-norte)**: Resultados detallados de las elecciones presidenciales de venezuela auditados por https://macedoniadelnorte.com [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/resultados-elecciones-venezuela-macedonia-del-norte)](/ggangix/resultados-elecciones-venezuela-macedonia-del-norte) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/resultados-elecciones-venezuela-macedonia-del-norte)](/ggangix/resultados-elecciones-venezuela-macedonia-del-norte)
 
 - **[Ringmast4r/radio-venezuela](https://github.com/Ringmast4r/radio-venezuela)**: Military & Regime Communications Intelligence — 130+ HF frequencies, dead satellite, five-country spy pipeline [![GitHub last commit](https://img.shields.io/github/last-commit/Ringmast4r/radio-venezuela)](/Ringmast4r/radio-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/Ringmast4r/radio-venezuela)](/Ringmast4r/radio-venezuela)
@@ -69,13 +69,15 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[bameda/chrome-ext-venezuela-no-more](https://github.com/bameda/chrome-ext-venezuela-no-more)**: A funny Chrome extension to get away from Venezuela when you read the Spanish press. [![GitHub last commit](https://img.shields.io/github/last-commit/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more) [![GitHub Repo stars](https://img.shields.io/github/stars/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more)
 
+- **[Villanuevand/openve-cli](https://github.com/Villanuevand/openve-cli)**: ὎1 Localiza las comunidades tecnol3gicas de Venezuela ἟1἟4 que hacen vida en Telegram reconocidas por OpenVE. [![GitHub last commit](https://img.shields.io/github/last-commit/Villanuevand/openve-cli)](/Villanuevand/openve-cli) [![GitHub Repo stars](https://img.shields.io/github/stars/Villanuevand/openve-cli)](/Villanuevand/openve-cli)
+
+## Salud
+
+- **[ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela)**: Registro open source y colaborativo de personas ya localizadas tras el sismo en Venezuela. B9squeda, p3ginas por persona/lugar y API p9bl… [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela)
+
 ## Otros
 
 - **[kbtale/awesome-venezuela](https://github.com/kbtale/awesome-venezuela)**: A collection of cool projects and tools built by Venezuelan devs. [![GitHub last commit](https://img.shields.io/github/last-commit/kbtale/awesome-venezuela)](/kbtale/awesome-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/kbtale/awesome-venezuela)](/kbtale/awesome-venezuela)
 
 - **[code-for-venezuela/2019-april-codeathon](https://github.com/code-for-venezuela/2019-april-codeathon)**: Code For Venezuela - April Codeathon [![GitHub last commit](https://img.shields.io/github/last-commit/code-for-venezuela/2019-april-codeathon)](/code-for-venezuela/2019-april-codeathon) [![GitHub Repo stars](https://img.shields.io/github/stars/code-for-venezuela/2019-april-codeathon)](/code-for-venezuela/2019-april-codeathon)
-
-- **[ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela)**: Registro open source y colaborativo de personas ya localizadas tras el sismo en Venezuela. B9squeda, p1ginas por persona/lugar y API p9bl… [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela)
-
-- **[DataVenezuela/VenezuelaDataCrisis](https://github.com/DataVenezuela/VenezuelaDataCrisis)**: Limpiemos los registros en esta crisis [![GitHub last commit](https://img.shields.io/github/last-commit/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis) [![GitHub Repo stars](https://img.shields.io/github/stars/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis)
 
