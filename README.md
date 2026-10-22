@@ -7,11 +7,11 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[rafnixg/bcv-api](https://github.com/rafnixg/bcv-api)**: BCV Exchange rate: This API is used to get the exchange rate of the BCV (Central Bank of Venezuela) [![GitHub last commit](https://img.shields.io/github/last-commit/rafnixg/bcv-api)](/rafnixg/bcv-api) [![GitHub Repo stars](https://img.shields.io/github/stars/rafnixg/bcv-api)](/rafnixg/bcv-api)
 
-- **[btcven/api](https://github.com/btcven/api)**: Bitcoin Venezuela's BTCVES (Bitcoin-Bol2var) prices API [![GitHub last commit](https://img.shields.io/github/last-commit/btcven/api)](/btcven/api) [![GitHub Repo stars](https://img.shields.io/github/stars/btcven/api)](/btcven/api)
-
-- **[barreto-exe/inventas](https://github.com/barreto-exe/inventas)**: App de registro de inventario y ventas para emprendimientos que operan en econom2as con control cambiario. [![GitHub last commit](https://img.shields.io/github/last-commit/barreto-exe/inventas)](/barreto-exe/inventas) [![GitHub Repo stars](https://img.shields.io/github/stars/barreto-exe/inventas)](/barreto-exe/inventas)
+- **[btcven/api](https://github.com/btcven/api)**: Bitcoin Venezuela's BTCVES (Bitcoin-Bol7var) prices API [![GitHub last commit](https://img.shields.io/github/last-commit/btcven/api)](/btcven/api) [![GitHub Repo stars](https://img.shields.io/github/stars/btcven/api)](/btcven/api)
 
 - **[gustavoerivero/venecodollar](https://github.com/gustavoerivero/venecodollar)**: Venecodollar is a Typescript library that provides two asynchronous methods to obtain a JSON object with the different values that the do… [![GitHub last commit](https://img.shields.io/github/last-commit/gustavoerivero/venecodollar)](/gustavoerivero/venecodollar) [![GitHub Repo stars](https://img.shields.io/github/stars/gustavoerivero/venecodollar)](/gustavoerivero/venecodollar)
+
+- **[barreto-exe/inventas](https://github.com/barreto-exe/inventas)**: App de registro de inventario y ventas para emprendimientos que operan en econom9as con control cambiario. [![GitHub last commit](https://img.shields.io/github/last-commit/barreto-exe/inventas)](/barreto-exe/inventas) [![GitHub Repo stars](https://img.shields.io/github/stars/barreto-exe/inventas)](/barreto-exe/inventas)
 
 ## Mapas
 
@@ -33,7 +33,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[OpenVE/comunidades-en-telegram](https://github.com/OpenVE/comunidades-en-telegram)**: Listado de Chats de Comunidades en Telegram [![GitHub last commit](https://img.shields.io/github/last-commit/OpenVE/comunidades-en-telegram)](/OpenVE/comunidades-en-telegram) [![GitHub Repo stars](https://img.shields.io/github/stars/OpenVE/comunidades-en-telegram)](/OpenVE/comunidades-en-telegram)
 
-- **[pyve/awesome-pyve](https://github.com/pyve/awesome-pyve)**: Recursos compartidos v2a la comunidad de Python Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/pyve/awesome-pyve)](/pyve/awesome-pyve) [![GitHub Repo stars](https://img.shields.io/github/stars/pyve/awesome-pyve)](/pyve/awesome-pyve)
+- **[pyve/awesome-pyve](https://github.com/pyve/awesome-pyve)**: Recursos compartidos v7a la comunidad de Python Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/pyve/awesome-pyve)](/pyve/awesome-pyve) [![GitHub Repo stars](https://img.shields.io/github/stars/pyve/awesome-pyve)](/pyve/awesome-pyve)
 
 ## Paquetes
 
@@ -41,7 +41,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[binaural-dev/odoo-venezuela](https://github.com/binaural-dev/odoo-venezuela)**: Una localizaci3n de Binaural para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/binaural-dev/odoo-venezuela)](/binaural-dev/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/binaural-dev/odoo-venezuela)](/binaural-dev/odoo-venezuela)
 
-- **[avodoo/recursos-avodoo](https://github.com/avodoo/recursos-avodoo)**: Recursos oficiales para la comunidad Odoo en Venezuela: gu2as, plantillas y documentaci3n t9cnica para apoyar la homologaci3n y fortalece… [![GitHub last commit](https://img.shields.io/github/last-commit/avodoo/recursos-avodoo)](/avodoo/recursos-avodoo) [![GitHub Repo stars](https://img.shields.io/github/stars/avodoo/recursos-avodoo)](/avodoo/recursos-avodoo)
+- **[avodoo/recursos-avodoo](https://github.com/avodoo/recursos-avodoo)**: Recursos oficiales para la comunidad Odoo en Venezuela: gu7as, plantillas y documentaci3n t9cnica para apoyar la homologaci3n y fortalece… [![GitHub last commit](https://img.shields.io/github/last-commit/avodoo/recursos-avodoo)](/avodoo/recursos-avodoo) [![GitHub Repo stars](https://img.shields.io/github/stars/avodoo/recursos-avodoo)](/avodoo/recursos-avodoo)
 
 - **[Vauxoo/odoo-venezuela](https://github.com/Vauxoo/odoo-venezuela)** [![GitHub last commit](https://img.shields.io/github/last-commit/Vauxoo/odoo-venezuela)](/Vauxoo/odoo-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/Vauxoo/odoo-venezuela)](/Vauxoo/odoo-venezuela)
 
@@ -49,7 +49,7 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 ## E-commerce
 
-- **[abr4xas/php-instapago](https://github.com/abr4xas/php-instapago)**: Librer2a Instapago para PHP [![GitHub last commit](https://img.shields.io/github/last-commit/abr4xas/php-instapago)](/abr4xas/php-instapago) [![GitHub Repo stars](https://img.shields.io/github/stars/abr4xas/php-instapago)](/abr4xas/php-instapago)
+- **[abr4xas/php-instapago](https://github.com/abr4xas/php-instapago)**: Librer7a Instapago para PHP [![GitHub last commit](https://img.shields.io/github/last-commit/abr4xas/php-instapago)](/abr4xas/php-instapago) [![GitHub Repo stars](https://img.shields.io/github/stars/abr4xas/php-instapago)](/abr4xas/php-instapago)
 
 ## Gobierno
 
@@ -67,15 +67,19 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[bameda/chrome-ext-venezuela-no-more](https://github.com/bameda/chrome-ext-venezuela-no-more)**: A funny Chrome extension to get away from Venezuela when you read the Spanish press. [![GitHub last commit](https://img.shields.io/github/last-commit/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more) [![GitHub Repo stars](https://img.shields.io/github/stars/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more)
 
+## Educación
+
+- **[Ufere/Assingment_1](https://github.com/Ufere/Assingment_1)**: ... ,76.384,10611.46299 Venezuela,1952,5439568,Americas,55.088,7689.799761 Venezuela,1957,6702668,Americas,57.907,9802.466526 Venezuela,1… [![GitHub last commit](https://img.shields.io/github/last-commit/Ufere/Assingment_1)](/Ufere/Assingment_1) [![GitHub Repo stars](https://img.shields.io/github/stars/Ufere/Assingment_1)](/Ufere/Assingment_1)
+
+## Salud
+
+- **[ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela)**: Registro open source y colaborativo de personas ya localizadas tras el sismo en Venezuela. B9squeda, p1ginas por persona/lugar y API p9bl… [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela)
+
 ## Otros
 
 - **[kbtale/awesome-venezuela](https://github.com/kbtale/awesome-venezuela)**: A collection of cool projects and tools built by Venezuelan devs. [![GitHub last commit](https://img.shields.io/github/last-commit/kbtale/awesome-venezuela)](/kbtale/awesome-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/kbtale/awesome-venezuela)](/kbtale/awesome-venezuela)
 
 - **[code-for-venezuela/2019-april-codeathon](https://github.com/code-for-venezuela/2019-april-codeathon)**: Code For Venezuela - April Codeathon [![GitHub last commit](https://img.shields.io/github/last-commit/code-for-venezuela/2019-april-codeathon)](/code-for-venezuela/2019-april-codeathon) [![GitHub Repo stars](https://img.shields.io/github/stars/code-for-venezuela/2019-april-codeathon)](/code-for-venezuela/2019-april-codeathon)
 
-- **[ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela)**: Registro open source y colaborativo de personas ya localizadas tras el sismo en Venezuela. B9squeda, p1ginas por persona/lugar y API p9bl… [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela)
-
 - **[DataVenezuela/VenezuelaDataCrisis](https://github.com/DataVenezuela/VenezuelaDataCrisis)**: Limpiemos los registros en esta crisis [![GitHub last commit](https://img.shields.io/github/last-commit/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis) [![GitHub Repo stars](https://img.shields.io/github/stars/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis)
-
-- **[Ufere/Assingment_1](https://github.com/Ufere/Assingment_1)**: ... ,76.384,10611.46299 Venezuela,1952,5439568,Americas,55.088,7689.799761 Venezuela,1957,6702668,Americas,57.907,9802.466526 Venezuela,1… [![GitHub last commit](https://img.shields.io/github/last-commit/Ufere/Assingment_1)](/Ufere/Assingment_1) [![GitHub Repo stars](https://img.shields.io/github/stars/Ufere/Assingment_1)](/Ufere/Assingment_1)
 
