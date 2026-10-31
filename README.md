@@ -57,13 +57,13 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[ggangix/venezuela-digital-observatory](https://github.com/ggangix/venezuela-digital-observatory)**: Public dataset of Venezuelan government domains (.gob.ve) with registration dates, expiration, and infrastructure data. Updated periodica… [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/venezuela-digital-observatory)](/ggangix/venezuela-digital-observatory) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/venezuela-digital-observatory)](/ggangix/venezuela-digital-observatory)
 
+- **[DataVenezuela/VenezuelaDataCrisis](https://github.com/DataVenezuela/VenezuelaDataCrisis)**: Limpiemos los registros en esta crisis [![GitHub last commit](https://img.shields.io/github/last-commit/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis) [![GitHub Repo stars](https://img.shields.io/github/stars/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis)
+
 - **[ggangix/resultados-elecciones-venezuela-macedonia-del-norte](https://github.com/ggangix/resultados-elecciones-venezuela-macedonia-del-norte)**: Resultados detallados de las elecciones presidenciales de venezuela auditados por https://macedoniadelnorte.com [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/resultados-elecciones-venezuela-macedonia-del-norte)](/ggangix/resultados-elecciones-venezuela-macedonia-del-norte) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/resultados-elecciones-venezuela-macedonia-del-norte)](/ggangix/resultados-elecciones-venezuela-macedonia-del-norte)
 
 - **[Ringmast4r/radio-venezuela](https://github.com/Ringmast4r/radio-venezuela)**: Military & Regime Communications Intelligence — 130+ HF frequencies, dead satellite, five-country spy pipeline https://ringmast4r.github.… [![GitHub last commit](https://img.shields.io/github/last-commit/Ringmast4r/radio-venezuela)](/Ringmast4r/radio-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/Ringmast4r/radio-venezuela)](/Ringmast4r/radio-venezuela)
 
 ## Utilidades
-
-- **[YipiApp/Venezuela](https://github.com/YipiApp/Venezuela)**: Herramientas para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/YipiApp/Venezuela)](/YipiApp/Venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/YipiApp/Venezuela)](/YipiApp/Venezuela)
 
 - **[bameda/chrome-ext-venezuela-no-more](https://github.com/bameda/chrome-ext-venezuela-no-more)**: A funny Chrome extension to get away from Venezuela when you read the Spanish press. [![GitHub last commit](https://img.shields.io/github/last-commit/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more) [![GitHub Repo stars](https://img.shields.io/github/stars/bameda/chrome-ext-venezuela-no-more)](/bameda/chrome-ext-venezuela-no-more)
 
@@ -73,9 +73,9 @@ Recursos para desarrolladores ![made in VE](madeinve.svg) !
 
 - **[code-for-venezuela/2019-april-codeathon](https://github.com/code-for-venezuela/2019-april-codeathon)**: Code For Venezuela - April Codeathon [![GitHub last commit](https://img.shields.io/github/last-commit/code-for-venezuela/2019-april-codeathon)](/code-for-venezuela/2019-april-codeathon) [![GitHub Repo stars](https://img.shields.io/github/stars/code-for-venezuela/2019-april-codeathon)](/code-for-venezuela/2019-april-codeathon)
 
-- **[ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela)**: Registro open source y colaborativo de personas ya localizadas tras el sismo en Venezuela. Búsqueda, páginas por persona/lugar y API públ… [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela)
+- **[ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela)**: Registro open source y colaborativo de personas ya localizadas tras el sismo en Venezuela. Bósqueda, páginas por persona/lugar y API pùbl… [![GitHub last commit](https://img.shields.io/github/last-commit/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/ggangix/localizados-venezuela)](/ggangix/localizados-venezuela)
 
-- **[DataVenezuela/VenezuelaDataCrisis](https://github.com/DataVenezuela/VenezuelaDataCrisis)**: Limpiemos los registros en esta crisis [![GitHub last commit](https://img.shields.io/github/last-commit/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis) [![GitHub Repo stars](https://img.shields.io/github/stars/DataVenezuela/VenezuelaDataCrisis)](/DataVenezuela/VenezuelaDataCrisis)
+- **[YipiApp/Venezuela](https://github.com/YipiApp/Venezuela)**: Herramientas para Venezuela [![GitHub last commit](https://img.shields.io/github/last-commit/YipiApp/Venezuela)](/YipiApp/Venezuela) [![GitHub Repo stars](https://img.shields.io/github/stars/YipiApp/Venezuela)](/YipiApp/Venezuela)
 
 - **[Ufere/Assingment_1](https://github.com/Ufere/Assingment_1)**: ... ,76.384,10611.46299 Venezuela,1952,5439568,Americas,55.088,7689.799761 Venezuela,1957,6702668,Americas,57.907,9802.466526 Venezuela,1… [![GitHub last commit](https://img.shields.io/github/last-commit/Ufere/Assingment_1)](/Ufere/Assingment_1) [![GitHub Repo stars](https://img.shields.io/github/stars/Ufere/Assingment_1)](/Ufere/Assingment_1)
 
